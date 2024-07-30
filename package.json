@@ -1,0 +1,22 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "main": "comments-api.ts",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonnkom/api-project.git"
+  },
+  "author": "Anton Komarov",
+  "license": "ISC",
+  "description": "Simple REST API with mock-data in JSON",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
